@@ -22,7 +22,7 @@
     "express": "~4.16.1",
     "express-fileupload": "^1.1.5",
     "fs": "0.0.1-security",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.3.0",
     "http-errors": "~1.6.3",
     "js-md5": "^0.7.3",
     "js-sha512": "^0.8.0",
